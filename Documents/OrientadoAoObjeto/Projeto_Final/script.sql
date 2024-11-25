@@ -21,6 +21,6 @@ create table endereco(
 ) 
 SELECT * FROM endereco;
 select * from DadosPessoais;
-INSERT INTO DadosPessoais values ('Ryan','711.005.621-09','9989898','Masculnio','10/01/2002',
-'RyanHideoOugaske@gmail.com', '(67)9999-9999', '(67)9999-8888')
+INSERT INTO DadosPessoais values ('Ryan','751.705.991-00','9989898','Masculnio','15/11/2001',
+'RyanHOugaske@gmail.com', '(67)9999-9999', '(67)9999-8888')
 Select * from DadosPessoais WHERE cpf = '711.005.621-09';
